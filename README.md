@@ -1,2 +1,2 @@
-# Entregas
-En este repositorio se encontrarán las diferentes entregas para la materia Señales y Sistemas
+# Repository
+In this repository you can find the difference tasks for the subject Signals and Systems
